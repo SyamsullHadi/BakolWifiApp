@@ -25,4 +25,4 @@
    <img src="https://github.com/SyamsullHadi/BakolWifiApp/blob/main/diubah.png">
 
 ###### 5. Tambilan data Customer juka di hapus
-   <img src="">
+   <img src="https://github.com/SyamsullHadi/BakolWifiApp/blob/main/hal1.PNG">
